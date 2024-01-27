@@ -1,7 +1,7 @@
 # 2-Player-Fighting-Game
 This File Contains Python - Pygame Code for a 2 player 2d fighting game
 
-This fun Python-based 2D-pixel game gives both players random characters each time.
+This fun Python-based 2D-pixel Fight game gives both players random characters each time.
 
 Player 1:
   A: Move Left
